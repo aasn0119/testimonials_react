@@ -60,4 +60,4 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 ## Credits
 
-- Testimonials and design by [Anuj Trivedi](https://anuj-vfolio.netlify.app).
+- Testimonials and design by [Me!](https://anuj-vfolio.netlify.app).
